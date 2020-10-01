@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression on Shivam Mishra</title>
+    <link>https://1sh1vam.github.io/zport/tags/regression/</link>
+    <description>Recent content in regression on Shivam Mishra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://1sh1vam.github.io/zport/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Big Mart Sales Prediction</title>
+      <link>https://1sh1vam.github.io/zport/post/chapter-6/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://1sh1vam.github.io/zport/post/chapter-6/</guid>
+      <description>Problem Statement: BigMart have collected sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
+Using this model, BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
+Interesting Insights:           Fig 1.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Cab Fare Prediction</title>
+      <link>https://1sh1vam.github.io/zport/post/chapter-3/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://1sh1vam.github.io/zport/post/chapter-3/</guid>
+      <description>Problem Statement: There is a cab rental start-up company which wants to launch a cab service. They have successfully run the pilot project and now want to launch their cab service across the country. They have collected the historical data from their pilot project and now have a requirement to apply analytics for fare prediction. The aim of the project is to design a system that predicts the fare amount for a cab ride in the city.</description>
+    </item>
+    
+  </channel>
+</rss>

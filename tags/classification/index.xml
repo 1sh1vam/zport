@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>classification on Shivam Mishra</title>
+    <link>https://1sh1vam.github.io/zport/tags/classification/</link>
+    <description>Recent content in classification on Shivam Mishra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://1sh1vam.github.io/zport/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Santander Customer Transaction Prediction</title>
+      <link>https://1sh1vam.github.io/zport/post/chapter-4/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://1sh1vam.github.io/zport/post/chapter-4/</guid>
+      <description>Problem Statement: Santander is bank where mission is to help people and businesses prosper. In this challenge, we need to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted.
+Interesting Insights: In this project target variable was highly imbalanced hence I used Smote Upsampling method to upsample minority class. We also used &amp;ldquo;F1-score&amp;rdquo; error metric and &amp;ldquo;ROC Curve&amp;rdquo; for model evaluation as accuracy isn&amp;rsquo;t a good metric when we have imbalnced dataset.</description>
+    </item>
+    
+  </channel>
+</rss>

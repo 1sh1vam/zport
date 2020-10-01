@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on Shivam Mishra</title>
+    <link>https://1sh1vam.github.io/zport/tags/machine-learning/</link>
+    <description>Recent content in machine learning on Shivam Mishra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://1sh1vam.github.io/zport/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Big Mart Sales Prediction</title>
+      <link>https://1sh1vam.github.io/zport/post/chapter-6/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://1sh1vam.github.io/zport/post/chapter-6/</guid>
+      <description>Problem Statement: BigMart have collected sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
+Using this model, BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
+Interesting Insights:           Fig 1.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Santander Customer Transaction Prediction</title>
+      <link>https://1sh1vam.github.io/zport/post/chapter-4/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://1sh1vam.github.io/zport/post/chapter-4/</guid>
+      <description>Problem Statement: Santander is bank where mission is to help people and businesses prosper. In this challenge, we need to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted.
+Interesting Insights: In this project target variable was highly imbalanced hence I used Smote Upsampling method to upsample minority class. We also used &amp;ldquo;F1-score&amp;rdquo; error metric and &amp;ldquo;ROC Curve&amp;rdquo; for model evaluation as accuracy isn&amp;rsquo;t a good metric when we have imbalnced dataset.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Cab Fare Prediction</title>
+      <link>https://1sh1vam.github.io/zport/post/chapter-3/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://1sh1vam.github.io/zport/post/chapter-3/</guid>
+      <description>Problem Statement: There is a cab rental start-up company which wants to launch a cab service. They have successfully run the pilot project and now want to launch their cab service across the country. They have collected the historical data from their pilot project and now have a requirement to apply analytics for fare prediction. The aim of the project is to design a system that predicts the fare amount for a cab ride in the city.</description>
+    </item>
+    
+  </channel>
+</rss>

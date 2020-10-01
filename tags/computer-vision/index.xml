@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer vision on Shivam Mishra</title>
+    <link>https://1sh1vam.github.io/zport/tags/computer-vision/</link>
+    <description>Recent content in computer vision on Shivam Mishra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://1sh1vam.github.io/zport/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 7: Face Mask Detection</title>
+      <link>https://1sh1vam.github.io/zport/post/chapter-7/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://1sh1vam.github.io/zport/post/chapter-7/</guid>
+      <description>Objective: In this project I tried to make use of deep learning to detect mask on people&amp;rsquo;s face as we are in the middle of a pandemic. My aim was to use this technology at Hospitals, Malls, Shoppping Centers, Railway Stations and Airports etc. to restrict people who are not wearing a mask.
+Procedure I used a pretrained &amp;ldquo;VGG16 model&amp;rdquo; to train the model for mask detection. Then I used opencv to detect the face and apply our model to detect mask.</description>
+    </item>
+    
+  </channel>
+</rss>
